@@ -1,0 +1,2 @@
+If we are repeating the code for a method in child class then we can use Strategy pattern to overcome
+this issue.

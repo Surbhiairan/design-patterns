@@ -1,0 +1,4 @@
+The Observer Pattern is a behavioral design pattern where an object (known as the "subject") 
+maintains a list of other objects (called "observers") that need to be updated whenever the subject 
+changes. This pattern is particularly useful for implementing event-driven systems or 
+publish-subscribe scenarios.
