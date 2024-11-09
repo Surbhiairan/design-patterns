@@ -20,6 +20,7 @@ class Farmhouse extends BasePizza {
     }
 }
 
+//decorator class
 abstract class ToppingDecorator extends BasePizza {
 
 }
